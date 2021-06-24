@@ -4,6 +4,11 @@ This repo hosts CloudFormation templates related to the AWS Management & Governa
 
 For details on how to use the corresponding CloudFormation templates, refer to the blog post.
 
+CloudFormation Templates:
+
+* [Scheduled-Patch-Automation.yaml](Templates/Scheduled-Patch-Automation.yaml)
+* [AWS-SystemsManager-AutomationExecutionRole.yaml](Templates/AWS-SystemsManager-AutomationExecutionRole.yaml)
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
