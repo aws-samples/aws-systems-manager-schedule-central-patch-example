@@ -1,11 +1,8 @@
-## My Project
+## Scheduling centralized multi-account and multi-Region patching with AWS Systems Manager Automation
 
-TODO: Fill this README out!
+This repo hosts CloudFormation templates related to the AWS Management & Governance blog post:
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+For details on how to use the corresponding CloudFormation templates, refer to the blog post.
 
 ## Security
 
