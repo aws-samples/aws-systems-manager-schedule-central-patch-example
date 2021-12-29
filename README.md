@@ -2,6 +2,8 @@
 
 This repo hosts CloudFormation templates related to the AWS Management & Governance blog post:
 
+https://aws.amazon.com/blogs/mt/scheduling-centralized-multi-account-multi-region-patching-aws-systems-manager-automation/
+
 For details on how to use the corresponding CloudFormation templates, refer to the blog post.
 
 CloudFormation Templates:
